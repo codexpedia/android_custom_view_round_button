@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="round_button_default_bg_color">#e0e9f9</color>
+    <color name="round_button_default_border_color">#a8c6f9</color>
+    <color name="round_button_default_text_color">#09090a</color>
+
+    <color name="transparent">#00ffffff</color>
+
+
+</resources>

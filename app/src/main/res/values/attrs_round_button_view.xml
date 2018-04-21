@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundButtonView">
+        <attr name="bgColor" format="color|reference"/>
+        <attr name="borderColor" format="color|reference"/>
+        <attr name="textColor" format="color|reference"/>
+        <attr name="cornerRadius" format="float|reference"/>
+        <attr name="borderWidth" format="integer|reference"/>
+        <attr name="textSize" format="dimension|reference"/>
+        <attr name="text" format="string"/>
+    </declare-styleable>
+</resources>
